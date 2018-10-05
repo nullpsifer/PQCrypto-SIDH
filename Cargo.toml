@@ -1,0 +1,6 @@
+[package]
+name = "PQCrypto-SIDH"
+version = "0.1.0"
+authors = ["cryptovillage"]
+
+[dependencies]
